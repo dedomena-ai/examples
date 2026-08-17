@@ -1,0 +1,13 @@
+id_empleado;nombre;apellidos;email;telefono;dni;fecha_nacimiento;codigo_postal;departamento;salario;notas
+EMP-000001;Valeria;Ordóñez Pastor;valeria.ordonez@ejemplo-ficticio.es;+34 611 002 001;12345678Z;1988-03-14;08001;Ingeniería;48200;Valeria Ordóñez pidió reducción de jornada por cuidado de un familiar. Su médico, el Dr. Sancho Ibarra, firmó el informe.
+EMP-000002;Nicolás;Rebollo Antúnez;nicolas.rebollo@ejemplo-ficticio.es;+34 611 002 002;23456789D;1979-11-02;28014;Ingeniería;53750;Nicolás lleva el proyecto de migración. Reporta a Valeria Ordóñez desde enero.
+EMP-000003;Amparo;Cifuentes Gálvez;amparo.cifuentes@ejemplo-ficticio.es;+34 611 002 003;34567890X;1995-06-25;46007;Comercial;31400;Amparo cerró la cuenta de Talleres Berrocal. Contacto allí: Fabián Quiroga, 611 002 900.
+EMP-000004;Teodoro;Maluenda Sierra;teodoro.maluenda@ejemplo-ficticio.es;+34 611 002 004;45678901B;1966-01-08;41002;Dirección;92000;Teodoro Maluenda firma las autorizaciones de gasto. Sustituto en vacaciones: Amparo Cifuentes.
+EMP-000005;Rosalía;Benegas Puig;rosalia.benegas@ejemplo-ficticio.es;+34 611 002 005;56789012Y;1991-09-17;08019;Comercial;33900;Rosalía tuvo una baja de seis semanas en 2024. Reincorporación sin restricciones.
+EMP-000006;Casimiro;Villalpando Rueda;casimiro.villalpando@ejemplo-ficticio.es;+34 611 002 006;67890123W;1984-04-30;28045;Operaciones;41600;Casimiro Villalpando gestiona el almacén de Getafe. Móvil de guardia: 611 002 901.
+EMP-000007;Ainhoa;Zubeldia Ferrer;ainhoa.zubeldia@ejemplo-ficticio.es;+34 611 002 007;78901234A;1998-12-11;48009;Ingeniería;36800;Ainhoa entró como becaria y pasó a plantilla en 2025. La tutorizó Nicolás Rebollo.
+EMP-000008;Filiberto;Anguiano Cid;filiberto.anguiano@ejemplo-ficticio.es;+34 611 002 008;89012345G;1972-07-23;15003;Operaciones;45100;Filiberto Anguiano tiene reconocida una discapacidad del 33%. Puesto adaptado.
+EMP-000009;Nerea;Salvatierra Bosch;nerea.salvatierra@ejemplo-ficticio.es;+34 611 002 009;90123456M;1993-02-05;46021;Personas;38300;Nerea lleva las entrevistas de salida. Última: Casimiro Villalpando, marzo de 2025.
+EMP-000010;Anselmo;Trigueros Lasa;anselmo.trigueros@ejemplo-ficticio.es;+34 611 002 010;01234567Q;1987-08-19;50006;Personas;35900;Anselmo Trigueros custodia los expedientes. Acceso compartido con Nerea Salvatierra.
+EMP-000011;Covadonga;Ynestrillas Mora;covadonga.ynestrillas@ejemplo-ficticio.es;+34 611 002 011;11223344P;1969-05-27;33201;Dirección;87500;Covadonga Ynestrillas preside el comité de ética. Suplente: Teodoro Maluenda.
+EMP-000012;Baltasar;Quintanilla Vera;baltasar.quintanilla@ejemplo-ficticio.es;+34 611 002 012;22334455S;2000-10-03;07011;Comercial;29500;Baltasar es el más reciente. Formación pendiente con Rosalía Benegas.
